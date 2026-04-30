@@ -32,8 +32,7 @@ Sou desenvolvedor com base em back-end e banco de dados, direcionando minha atua
 
 
 <p>
-  <img 
-    align="left" 
+  <img  
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
