@@ -17,6 +17,8 @@ Sou desenvolvedor com base em back-end e banco de dados, direcionando minha atua
             src="https://custom-icon-badges.demolab.com/github/stars/Kpascoal-hub?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star&label=estrelas"
         />
     </a>
+    <a href="https://www.linkedin.com/in/matheus-pascoal-craveiro-77aa88325/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </p>
 
 ---
@@ -41,7 +43,3 @@ Sou desenvolvedor com base em back-end e banco de dados, direcionando minha atua
 
 </div>
 
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
