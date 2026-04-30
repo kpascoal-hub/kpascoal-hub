@@ -18,6 +18,7 @@ Sou desenvolvedor com base em back-end e banco de dados, direcionando minha atua
         />
     </a>
 </p>
+
 ---
 
 ### Linguagens de Programação
