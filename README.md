@@ -33,7 +33,7 @@ Sou desenvolvedor com base em back-end e banco de dados, direcionando minha atua
 
 
 
-![](https://github-readme-stats.shion.dev/api?username=kpascoal-hub&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=kpascoal-hub&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=kpascoal-hub&theme=transparent&hide_border=true)<br/>
 
 </div>
