@@ -33,13 +33,8 @@ Sou desenvolvedor com base em back-end e banco de dados, direcionando minha atua
 
 
 
-<p>
-  <img  
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kpascoal-hub&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+![](https://github-readme-stats.shion.dev/api?username=kpascoal-hub&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kpascoal-hub&theme=transparent&hide_border=false)<br/>
 
 </div>
 
